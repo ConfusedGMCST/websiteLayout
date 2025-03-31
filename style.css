@@ -38,12 +38,13 @@ body {
     color: white;
     font-family: Iansui;
     width: 50%;
+    height: 100%;
 }
 
 .smallestContainer {
     width: 50%;
     display: flex;
-    justify-content: space-between;
+    gap: 90%;
 }
 
 .smallestContainer, img {
